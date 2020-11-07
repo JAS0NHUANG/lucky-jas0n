@@ -1,0 +1,28 @@
+{
+  "name": "lucky-jas0n",
+  "description": "",
+  "version": "1.0.0",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "start": "node app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JAS0NHUANG/lucky-jas0n.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JAS0NHUANG/lucky-jas0n/issues"
+  },
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "engines": {
+    "node": "15.0.1"
+  },
+  "homepage": "https://github.com/JAS0NHUANG/lucky-jas0n#readme"
+}
